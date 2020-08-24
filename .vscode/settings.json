@@ -1,0 +1,16 @@
+{
+    "[json]": {
+        "editor.autoIndent": "advanced",
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "json.schemas": [
+     
+    
+    ],
+  
+
+}
